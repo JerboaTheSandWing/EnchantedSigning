@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "enchantedsigning",
+  "version": "${version}",
+  "name": "Enchanted Signing",
+  "description": "A mod for creating illegal books in Minecraft Version 1.4.",
+  "authors": [
+    "JerboaWings",
+    "Grayray75"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/enchantedsigning/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "io.jerboathesandwing.EnchantedSigningMod"
+    ]
+  },
+  "accessWidener": "enchantedsigning.accesswidener",
+  "mixins": [
+    "enchantedsigning.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "minecraft": "1.4"
+  }
+}
