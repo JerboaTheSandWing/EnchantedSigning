@@ -9,3 +9,5 @@ Download the .exe file and check the show snapshots option and then select any v
 Once you have done that simply drag and drop the mod into your mods folder and start the game.
 
 Once the game is started it is as simple as going into the options menu and clicking on BookHack settings and there you can select what you want to add to the book, once you have done that just close the menu and sign a book.
+
+Most of this mod was not made by me.
